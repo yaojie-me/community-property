@@ -1,13 +1,13 @@
-package link.lyhp.community.property;
+package link.lyhp.metadata;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class CommunityPopertyApplication {
+public class MetadataApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(CommunityPopertyApplication.class, args);
+        SpringApplication.run(MetadataApplication.class, args);
     }
 
 }

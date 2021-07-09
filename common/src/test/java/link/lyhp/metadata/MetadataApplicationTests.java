@@ -1,10 +1,10 @@
-package link.lyhp.community.property;
+package link.lyhp.metadata;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class CommunityPopertyApplicationTests {
+class MetadataApplicationTests {
 
     @Test
     void contextLoads() {
